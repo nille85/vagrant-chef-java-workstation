@@ -20,6 +20,9 @@ default_attributes(
       "name" =>"bower",
       "version"=>  "1.6.4"
     }]
+	},
+	"tomcat" => {
+		"base_version" => 7
 	}
 )
 
