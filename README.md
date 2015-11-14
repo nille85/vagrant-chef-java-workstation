@@ -7,5 +7,5 @@ The following tools and applications are automatically installed:
 - Git 1.7.9.5
 - NodeJS 0.10.40
 - NPM 1.4.28 with Grunt and Bower modules
-- A running Apache Tomcat 6 with a preconfigured admin user
+- A running Apache Tomcat 7 with a preconfigured admin user
 
